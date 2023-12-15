@@ -38,7 +38,7 @@ Pegando registro de cats e votos:
 
 Registrando Cachorro:
 
-![Untitled](./assets/registro_dogs_voto.png)
+![Untitled](./assets/registrando_dogs.png)
 
 Inserindo um nome de cachorro inválido:
 
